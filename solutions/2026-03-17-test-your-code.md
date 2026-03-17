@@ -2,8 +2,12 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 3/16/2026, 5:12:21 PM
+- **Submitted**: 3/16/2026, 5:13:44 PM
 - **Link**: [https://www.greatfrontend.com/questions/javascript/debounce?practice=practice&tab=coding](https://www.greatfrontend.com/questions/javascript/debounce?practice=practice&tab=coding)
+
+## 💡 Solution Notes
+
+debounce
 
 ## 💻 Implementation
 
