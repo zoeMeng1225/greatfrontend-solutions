@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 3/18/2026, 11:13:07 AM
+- **Submitted**: 3/18/2026, 2:13:37 PM
 - **Tags**: <, div, >, <, input, value, =, {, keyword, }, onChange, =, {, (, e, ), =>, setKeyword, (, e, ., target, ., value, ), }, />, <, p, >, </, p, >, </, div, >, <, T, >
 - **Link**: [https://www.greatfrontend.com/questions/javascript/use-debounce?practice=practice&tab=coding](https://www.greatfrontend.com/questions/javascript/use-debounce?practice=practice&tab=coding)
 
