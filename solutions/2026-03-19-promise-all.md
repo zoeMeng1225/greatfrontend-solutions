@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 3/19/2026, 2:23:08 PM
+- **Submitted**: 3/19/2026, 2:24:10 PM
 - **Link**: [https://www.greatfrontend.com/questions/javascript/promise-all?practice=practice&tab=coding](https://www.greatfrontend.com/questions/javascript/promise-all?practice=practice&tab=coding)
 
 ## 💻 Implementation
