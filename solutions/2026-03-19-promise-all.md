@@ -18,7 +18,22 @@ export default function promiseAll(iterable) {
     let completedCount = 0;
 
     if (iterable.length === 0) {
-```
+      resolve([]);
+      return;
+    }
+
+    iterable.forEach((item, index) => {
+      Promise.resolve(item).then((value) => {
+        results[index] = value;
+        completedCount++;
+
+        if (completedCount === iterable.length) {
+          resolve(results);
+        }
+      }).catch(error => reject(error))
+    });
+  });
+}
 
 ---
 
