@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 4/5/2026, 8:41:09 PM
+- **Submitted**: 4/6/2026, 3:17:37 PM
 - **Difficulty**: Hard
 - **Tags**: javascript
 - **Link**: [https://www.greatfrontend.com/questions/javascript/data-selection?practice=practice&tab=coding](https://www.greatfrontend.com/questions/javascript/data-selection?practice=practice&tab=coding)
