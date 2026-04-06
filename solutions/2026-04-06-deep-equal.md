@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 4/6/2026, 3:16:33 PM
+- **Submitted**: 4/6/2026, 3:16:45 PM
 - **Difficulty**: Medium
 - **Tags**: javascript
 - **Link**: [https://www.greatfrontend.com/questions/javascript/deep-equal?practice=practice&tab=coding](https://www.greatfrontend.com/questions/javascript/deep-equal?practice=practice&tab=coding)
