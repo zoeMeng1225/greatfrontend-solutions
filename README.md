@@ -80,4 +80,4 @@ I'm a frontend engineer focused on React / TypeScript. This repo documents my da
 
 Each `.md` file includes the problem description, my solution, and notes on edge cases or alternative approaches.
 
-🔗 [Portfolio](https://zoemeng.com) · [LinkedIn](https://linkedin.com/in/zoemeng1225) · [GitHub](https://github.com/zoeMeng1225)
+🔗 [Portfolio](https://zoemeng.com) · [LinkedIn](https://www.linkedin.com/in/zoe-meng/) · [GitHub](https://github.com/zoeMeng1225)
