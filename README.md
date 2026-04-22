@@ -37,7 +37,7 @@ Daily solutions to [GreatFrontEnd](https://www.greatfrontend.com/) problems, cov
 | `Promise.allSettled` | 03/19 | [promise-all-settled.md](solutions/2026-03-19-promise-all-settled.md) |
 | `Promise.any` | 03/24 | [promise-any.md](solutions/2026-03-24-promise-any.md) |
 | `Promise.any` (revisit) | 04/13 | [promise-any.md](solutions/2026-04-13-promise-any.md) |
-
+| `Promisify` | 04/22 | [promise-any.md](solutions/2026-04-22-promisify.md) |
 ## React Hooks
 
 | Problem | Date | File |
