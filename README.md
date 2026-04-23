@@ -28,6 +28,7 @@ Daily solutions to [GreatFrontEnd](https://www.greatfrontend.com/) problems, cov
 | Array — Balanced Brackets | 04/01 | [array-balanced-brackets.md](solutions/2026-04-01-array-balanced-brackets.md) |
 | Array — Find Duplicate | 04/01 | [array-find-duplicate.md](solutions/2026-04-01-array-find-duplicate.md) |
 | Array — Find Missing Number in Sequence | 04/01 | [array-find-missing-number-in-sequence.md](solutions/2026-04-01-array-find-missing-number-in-sequence.md) |
+| Memoize | 04/22 | [memoize.md](solutions/2026-04-23-memoize.md) |
 
 ## Promise
 
