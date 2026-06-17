@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 6/16/2026, 10:05:08 PM
+- **Submitted**: 6/16/2026, 10:05:31 PM
 - **Difficulty**: Medium
 - **Tags**: javascript
 - **Link**: [https://www.greatfrontend.com/questions/javascript/promisify?language=js&tab=coding](https://www.greatfrontend.com/questions/javascript/promisify?language=js&tab=coding)
