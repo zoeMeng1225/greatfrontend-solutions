@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 6/16/2026, 10:05:56 PM
+- **Submitted**: 6/16/2026, 10:06:06 PM
 - **Difficulty**: Medium
 - **Tags**: javascript
 - **Link**: [https://www.greatfrontend.com/questions/javascript/promise-all-settled?language=js&tab=coding](https://www.greatfrontend.com/questions/javascript/promise-all-settled?language=js&tab=coding)
