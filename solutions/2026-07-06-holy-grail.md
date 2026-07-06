@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 7/5/2026, 7:35:51 PM
+- **Submitted**: 7/5/2026, 7:52:03 PM
 - **Difficulty**: Easy
 - **Tags**: user-interface
 - **Link**: [https://www.greatfrontend.com/questions/user-interface/holy-grail?practice=practice&tab=coding](https://www.greatfrontend.com/questions/user-interface/holy-grail?practice=practice&tab=coding)
@@ -32,7 +32,7 @@ footer {
 
 header {
   background-color: tomato;
-   height: 100px;
+  height: 100px;
 }
 
 .next-layer-wrapper {
@@ -43,25 +43,27 @@ header {
 
 nav {
   background-color: coral;
+  width: 20%;
 }
 
 main {
   background-color: moccasin;
+  width: 80%;
 }
 
 aside {
   background-color: sandybrown;
+  width: 20%;
 }
 nav,
 aside,
 main {
-  width: 100%;
   height: 300px;
 }
 
 footer {
   background-color: slategray;
-   height: 100px;
+  height: 100px;
 }
 
 ```
