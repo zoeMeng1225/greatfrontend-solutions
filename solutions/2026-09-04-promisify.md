@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 9/4/2026, 10:39:57 AM
+- **Submitted**: 9/4/2026, 10:40:33 AM
 - **Difficulty**: Medium
 - **Tags**: javascript
 - **Link**: [https://www.greatfrontend.com/questions/javascript/promisify?practice=practice&tab=coding](https://www.greatfrontend.com/questions/javascript/promisify?practice=practice&tab=coding)
@@ -16,27 +16,19 @@
  * @returns {(...args: Array<unknown>) => Promise<TResult>}
  */
 export default function promisify(func) {
-  //return a new function that takes any number of arguments
-  return function (...args) {
-    //the new function must return a Promise to support async/await
-    return new Promise((resolve, reject) => {
-      //construct a standard Node.js "error-first" callback function
-      const customCallBack = (err, result) => {
-        if (err) {
-          //if there is error, reject the Promise
-          reject(err);
-        } else {
-          //if successful, resolve the Promise with the result
-          resolve(result);
-        }
-      };
+  return function (...args){
+        return new Promise((resolve, reject) => {
+            const customeCallback = (err, result) => {
+                if(err){
+                    reject(err)
+                }else{
+                    resolve(result)
+                }
+            }
 
-      //excute the original function: use  .apply(this, ...) to ensure the original function
-      //"this" binding is not lost
-      //append our customCallBack as the very last argument
-      func.apply(this, [...args, customCallBack]);
-    });
-  };
+            func.apply(this, [...args, customeCallback])
+        })
+    }
 }
 
 ```
