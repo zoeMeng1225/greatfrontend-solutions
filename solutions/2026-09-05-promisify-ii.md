@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 9/5/2026, 9:48:01 AM
+- **Submitted**: 9/5/2026, 9:51:10 AM
 - **Difficulty**: Medium
 - **Tags**: javascript
 - **Link**: [https://www.greatfrontend.com/questions/javascript/promisify-ii?practice=practice&tab=coding](https://www.greatfrontend.com/questions/javascript/promisify-ii?practice=practice&tab=coding)
@@ -15,23 +15,23 @@
  * @returns {Function}
  */
 export default function promisify(func) {
-  const customeSymbol = Symbol.for('util.promisify.custom');
+  const customSymbol = Symbol.for('util.promisify.custom');
 
-  if(func[customeSymbol]){
-    return func[customeSymbol];
+  if(func[customSymbol]){
+    return func[customSymbol];
   }
 
   return function(...args){
     return new Promise((resolve, reject) => {
-      const customCallback = (err, value) => {
-        if(err) {
-          reject(err)
-        }else{
-          resolve(value)
+        const cumstomCallback = (err, value) => {
+            if(err){
+                reject(err)
+            }else{
+                resolve(value)
+            }
         }
-      }
 
-      func.apply(this, [...args, customCallback])
+        func.apply(this, [...args, cumstomCallback])
     })
   }
 }
