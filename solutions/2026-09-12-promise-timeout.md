@@ -2,7 +2,7 @@
 
 ## 📊 Question Info
 
-- **Submitted**: 9/12/2026, 9:40:46 AM
+- **Submitted**: 9/12/2026, 9:40:57 AM
 - **Difficulty**: Medium
 - **Tags**: javascript
 - **Link**: [https://www.greatfrontend.com/questions/javascript/promise-timeout?practice=practice&tab=coding](https://www.greatfrontend.com/questions/javascript/promise-timeout?practice=practice&tab=coding)
